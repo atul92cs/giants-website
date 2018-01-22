@@ -1,0 +1,112 @@
+html,
+body
+{
+  height:100%;
+}
+
+#cover
+{
+ 
+  height:100%;
+  /*display:flex;
+   background-size:cover;*/
+}
+#cover img
+{
+	margin-left:175px;
+	margin-top:50px;
+}
+#about
+{
+	width:100%;
+	background:#08212B;
+	color:#DCDCDC;
+	font-family: 'Roboto Slab', serif;
+	padding-top:20px;
+	text-align:center;
+	padding-bottom:20px;
+}
+#team
+{
+	text-align:center;
+	font-family: 'Roboto Slab', serif;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+}
+.card-deck
+{
+	padding-top:20px;
+}
+.nav a
+{
+	font-family: 'Oswald', serif;
+	font-weight: bold; !important;
+	color:white; !important;
+}
+#mission
+{
+	background:#08212B;
+	color:#DCDCDC;
+    margin-top:20px;
+	
+}
+#contact
+{
+	margin-top:20px;
+	height:70%;
+	
+}
+.card
+{
+	color:black;
+	text-align:center
+}
+.mission h3
+{
+	text-align:center;
+	font-weight:bold;
+	font-family:'Oswald', sans-serif;
+	padding-top:20px;
+	
+}
+.contactinfo
+{
+	margin-top:20px;
+	margin-left:20px;
+	
+}
+.contactinfo h5
+{
+	/*text-align:center;*/
+	font-family:'Oswald',sans-serif;
+	margin-top:20px;
+}
+.form
+{
+	margin-top:20px;
+	margin-left:30px;
+	
+}
+.mission p
+{
+	text-align:none;
+}
+#footer-main
+{
+	background:#08212B;
+	color:#DCDCDC;
+    margin-top:20px;
+	height:15%;
+}
+.websiteinfo
+{
+	margin-top:20px;
+	margin-left:20px;
+}
+.copyrightinfo
+{
+	margin-top:20px;
+	text-align:right;
+	margin-right:20px;
+}
